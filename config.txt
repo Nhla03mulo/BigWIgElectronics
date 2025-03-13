@@ -1,1 +1,4 @@
-Test
+#NHLAMULO NGOBENI
+#12 MARCH 2025
+#Configuration file for Big Wig Electronics
+timeout = 45
